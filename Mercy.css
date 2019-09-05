@@ -1,7 +1,6 @@
 body {
     background-color: rgba(128, 128, 128, 0.616);
     margin: 50px;
-    border: 10px groove black;
   }
   h1 {
     color: black;
@@ -20,7 +19,7 @@ body {
     width: 900px;
     padding: 25px;
     box-sizing: border-box;
-    background-color: rgba(128, 128, 128, 0.616);;
+    background-color: rgba(128, 128, 128, 0.616);
    }
 
 aside {
