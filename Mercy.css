@@ -1,38 +1,38 @@
 body {
-    background-color:  white;
+    background-color: grey;
     margin: 50px;
-    border: 10px groove brown;
+    border: 10px groove black;
   }
   h1 {
     color: black;
     text-align: center;
     font: italic 300% fantasy;
-    border: 20px groove  brown;
-    background-color: rgba(218, 188, 20, 0.596);
+    border: 20px groove  rgba(0, 0, 0, 0.904);
+    background-color: white;
    }
    h2 {
-   background-color:  rgba(218, 188, 20, 0.596);
+   background-color:  white;
    color: black;
    text-align: left;
-   border: 20px groove  brown;
+   border: 20px groove  black;
    }
    div {
     width: 900px;
     padding: 25px;
     box-sizing: border-box;
-    background-color : white;
+    background-color: grey;
    }
 
 aside {
-    background-color: rgba(218, 188, 20, 0.596);
+    background-color: white;
     color: black;
     text-align: center;
-    border: 20px groove  brown;
+    border: 20px groove  black;
 }
 .contact {
   width: 120px;
     padding: 1px;
-    background-color : brown;
+    background-color : black;
     text-align: center;
     font: italic 100% fantasy;
     margin:3px;
