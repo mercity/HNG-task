@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+    margin: 50px;
+  }
+  h1 {
+    color: black;
+    text-align: center;
+    font: italic 300% fantasy;
+    border: 20px groove  brown;
+    background-color: rgba(218, 188, 20, 0.596);
+   }
+   h2 {
+   background-color:  rgba(218, 188, 20, 0.596);
+   color: black;
+   text-align: left;
+   border: 20px groove  brown;
+   }
+   div {
+    width: 900px;
+    padding: 25px;
+    box-sizing: border-box;
+    background-color : rgba(165, 42, 42, 0.884);
+   }
+
+aside {
+    background-color: rgba(218, 188, 20, 0.596);
+    color: black;
+    text-align: center;
+    border: 20px groove  brown;
+}
+.contact {
+  width: 120px;
+    padding: 1px;
+    background-color : brown;
+    text-align: center;
+    font: italic 100% fantasy;
+    margin:3px;
+    border-top:15px;
+    border-bottom:10px;
+    border-left:5px;
+    border-right:5px;
+}
