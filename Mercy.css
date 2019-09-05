@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-color: rgba(128, 128, 128, 0.616);
     margin: 50px;
     border: 10px groove black;
   }
@@ -7,32 +7,32 @@ body {
     color: black;
     text-align: center;
     font: italic 300% fantasy;
-    border: 20px groove  rgba(0, 0, 0, 0.904);
+    border: 10px groove  rgba(0, 0, 0, 0.904);
     background-color: white;
    }
    h2 {
    background-color:  white;
    color: black;
    text-align: left;
-   border: 20px groove  black;
+   border: 10px groove  black;
    }
    div {
     width: 900px;
     padding: 25px;
     box-sizing: border-box;
-    background-color: grey;
+    background-color: rgba(128, 128, 128, 0.616);;
    }
 
 aside {
     background-color: white;
     color: black;
     text-align: center;
-    border: 20px groove  black;
+    border: 10px groove  black;
 }
 .contact {
   width: 120px;
     padding: 1px;
-    background-color : black;
+    background-color : grey;
     text-align: center;
     font: italic 100% fantasy;
     margin:3px;
