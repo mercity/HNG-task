@@ -1,6 +1,7 @@
 body {
-    background-color: white;
+    background-color:  brown;
     margin: 50px;
+    border: 10px groove brown;
   }
   h1 {
     color: black;
