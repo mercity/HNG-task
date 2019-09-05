@@ -1,5 +1,5 @@
 body {
-    background-color:  brown;
+    background-color:  white;
     margin: 50px;
     border: 10px groove brown;
   }
@@ -20,7 +20,7 @@ body {
     width: 900px;
     padding: 25px;
     box-sizing: border-box;
-    background-color : rgba(165, 42, 42, 0.651);
+    background-color : white;
    }
 
 aside {
